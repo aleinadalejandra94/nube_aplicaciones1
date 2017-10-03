@@ -1,0 +1,38 @@
+
+.material-icons
+{
+	color: red;
+	
+	margin-top: 15%;
+	/*margin-right:5%;*/
+
+}
+
+#contenedor
+{
+	background-color: green; width: 100px; height:50px;
+	/*margin: auto;*/
+	border-radius: 15px;
+	padding-left: 15px;
+	margin-left: 50%;
+	margin-top: 30%;
+}
+.icon-ambulancia
+{
+	color: green;	
+	font-size: 30px;
+	float: left;
+
+}
+.icon-manzana
+{
+	color: blue;	
+	font-size: 30px;
+	float: left;	
+}
+.icon-cucaracha
+{
+	color: red;	
+	font-size: 30px;
+	float: left;
+}

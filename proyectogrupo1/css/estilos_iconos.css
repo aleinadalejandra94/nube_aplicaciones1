@@ -1,0 +1,38 @@
+
+.material-icons
+{
+	color: red;
+	
+	margin-top: 15%;
+	/*margin-right:5%;*/
+
+}
+.icon-campana
+{
+	color: pink;	
+	font-size: 50px;
+	float: left;
+
+}
+.icon-pc
+{
+	color: blue;	
+	font-size: 50px;
+	float: left;	
+}
+.icon-libro
+{
+	color: red;	
+	font-size: 50px;
+	float: left;
+}
+#bloque
+{
+ background-color:green; 
+	 	width: 250px; 
+	 	height: 90px;
+	 	margin:50%; 
+	 	border-radius: 15px;
+	 	padding-left: 15px;
+	 	/*margin-left: 40%;*/
+}
